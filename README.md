@@ -45,7 +45,7 @@ N.WMS 프로젝트는 [Presentation 프로젝트](https://github.com/cain0605/nw
 
 ![Image](software.png)
 
-부끄러운 이야기지만 프로젝트를 구성하는 모든 기술요소는 전부 처음 해보는 것들이다. (평소 알고는 있었다하더라고 구현은 처음이다;;)
+부끄러운 이야기지만 프로젝트를 구성하는 모든 기술요소는 전부 처음 해보는 것들이다. (평소 알고는 있었다하더라고 구현은 처음이다)
 내가 다양한 기술에 익숙치 못한점도 있지만 일부러 내가 익숙한 기술은 전부 배제했기 때문이기도 하다.
 
 처음엔 방향이 없었지만 하나씩 무작정 따라하다 보니 몇가지 구현해보고 싶은 방향과 키워드가 생겼다.
@@ -53,7 +53,7 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 
 **내멋대로 이런 것들을 흉내 내보기로 했다.**
 
-- [**SpringBoot**](http://spring.io/projects/spring-boot) : 잘한다고 말은 못하지만 배운게 JAVA 라 ㅠ_ㅠ 그나마 만만했다.
+- [**SpringBoot**](http://spring.io/projects/spring-boot) : 잘한다고 말은 못하지만 배운게 JAVA 라 그나마 만만했다.
 - JPA : Hibernate 시절부터 친구와 단골 논쟁거리였던 ORM 이다. 
 나로서는 업무에 도입할 일이 없었고 복잡한 쿼리에 대응할 수 있을지 많은 의구심이 든  API 이다. 그래서인지 이럴때 과감히 써보고 싶었다.
 - [**RestfulApi**](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design) : 옛날부터 궁금했다. 철처히 독립된 시스템간의 의사소통방식은 어떻게 할까?
@@ -61,9 +61,9 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 - [**Dhtmlx**](https://dhtmlx.com) : 그래도 명색이 프로젝트인데 UI 는 있어야지 하는 마음에 ㅠ_ㅠ 고르고 골라봤지만 부족한듯 싶다.
 - [**Git**](https://github.com) : 참.. 지금까지 이걸 안써봤다는게 부끄러울 따름이다. SVN, CVS 가 아닌 첫 형상관리 도구이다.
 - [**Travis**](https://travis-ci.org) : CI를 고민할때쯤 친구의 추천으로 쓰게되었는데 편하다. 당연한 이야기겠지만 GitHub 와 찰떡 궁합인듯 하다.
-- [**Coveralls**](https://coveralls.io) :  아직 제대로 쓸줄은 모른다 ㅠ_ㅠ 앞으로 해볼 생각이다. 연동만 해놨다.
+- [**Coveralls**](https://coveralls.io) :  아직 제대로 쓸줄은 모른다 앞으로 해볼 생각이다. 연동만 해놨다.
 - [**Slack**](https://slack.com) :  예전에 잠깐 구경정도 해봤는데 써볼수록 장점이 많은것 같다.
-- [**Trello**](https://trello.com) : 애자일 코스프래를 해보려했는데 혼자라 의미가 없드라 ㅎㅎ 연동만 해놓으려한다 ㅠ_ㅠ
+- [**Trello**](https://trello.com) : 애자일 코스프래를 해보려했는데 혼자라 의미가 없드라. 연동만 해놓으려한다.
 - [**AWS**](https://aws.amazon.com/ko) : 클라우드 흉내내기다. 사실 뭔가를 하고싶은데 개인 개발자 입장으로 가볍게 서버환경을 구성하기에는 AWS 프리티어가 짱인듯하다.
 - [**Docker**](https://www.docker.com) : 호기심에 시작했지만 해보고나니 써야할 이유가 참 많은것 같다.
 - Kubernetes : 운영환경 기술의 꽃이 아닐까 생각된다.
