@@ -16,6 +16,12 @@ AA 업무를 5년동안 수행하며 나무가 아닌 숲을 볼 수 있을정�
 거창한 목적이 없는 프로젝트이다. 어쩌면 자기만족을 위한 프로젝트랄까.
 하지만 작은 소망이 있다면 누군가 나와같은 고민을 할지 모르는 사람들에게 도움이 되었으면 한다.
 
+https://github.com/cain0605/nwms.presentation
+http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8000
+
+https://github.com/cain0605/nwms.service
+http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html
+
 
 ## 프로젝트 진행초기 어려움
 
@@ -77,9 +83,5 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 공부하며 도움이 되었던 블러그나 자료들은 http://cain0605.slack.com #link 채널에 정리하고 있다.
 
 ```markdown
-https://github.com/cain0605/nwms.presentation
-http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8000
 
-https://github.com/cain0605/nwms.service
-http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html
 ```
