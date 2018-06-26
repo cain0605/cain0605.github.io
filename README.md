@@ -16,13 +16,10 @@ AA 업무를 5년동안 수행하며 나무가 아닌 숲을 볼 수 있을정�
 거창한 목적이 없는 프로젝트이다. 어쩌면 자기만족을 위한 프로젝트랄까.
 `하지만 작은 소망이 있다면 누군가 나와같은 고민을 할지 모르는 사람들에게 도움이 되었으면 한다.`
 
-N.WMS 프로젝트는 Presentation 프로젝트[Link](https://github.com/cain0605/nwms.presentation)와 Service 프로젝트(https://github.com/cain0605/nwms.service)로 구성되어 있다.
+N.WMS 프로젝트는 [Presentation 프로젝트](https://github.com/cain0605/nwms.presentation)와 [Service 프로젝트](https://github.com/cain0605/nwms.service)로 구성되어 있으며 GitHub에서 소스를 확인할 수 있으며 AWS 서비스에서 사용해 볼 수도 있다.
 
-AWS 서비스에서 사용해 볼 수도 있다.
-
-http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8000
-
-http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html
+[http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8000](http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8000)
+[http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html](http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html)
 
 
 
@@ -85,7 +82,7 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 그렇다고 해도 겨우 일부일뿐이지 python, tensorflo, jsframework 등 요즘 유행하는 기술들은 여전히 낫설다.
 
 마음같아선 다해보고 싶지만 하다하다 지쳐서 죽도밥도 안될거같기에 ㅎㅎ;; 이정도 선에서 진행해보려 한다.
-공부하며 도움이 되었던 블러그나 자료들은 http://cain0605.slack.com #link 채널에 정리하고 있다.
+공부하며 도움이 되었던 블러그나 자료들은 [http://cain0605.slack.com](http://cain0605.slack.com) #link 채널에 정리하고 있다.
 
 ```markdown
 
