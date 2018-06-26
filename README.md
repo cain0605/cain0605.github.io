@@ -70,9 +70,9 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 
 프로젝트는 개발환경에서 운영환경까지 자동배포되는 과정에서 요소요소에 기술들이 쓰여졌다. 시스템의 개발 및 운영의 효율성보다는 실습이라는 부분에 좀더 초점이 맞추어 졌다는것을 이해했으면 한다. 어차피 나도 초보다.
 
-![Image](devops.png)
+![Image](phoenix.png)
 
-(위의 그림은 [해당 페이지](https://www.contegix.com/devops-part1-its-more-than-teams/)에서 인용하였습니다)
+(위의 그림은 [해당 페이지](http://bcho.tistory.com/m/1224)에서 인용하였습니다)
 
 
 
@@ -93,6 +93,10 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 정리가 목적은 아니기에 보기에 불편 할 수도 있다.
 
 **기술습득 단계에서는 직접해보고 필요성을 느껴보도록 노력해보아라.**
+
+![Image](devops.png)
+
+(위의 그림은 [해당 페이지](https://www.contegix.com/devops-part1-its-more-than-teams)에서 인용하였습니다)
 
 
 
