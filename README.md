@@ -54,7 +54,7 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 **내멋대로 이런 것들을 흉내 내보기로 했다.**
 
 - [**SpringBoot**](http://spring.io/projects/spring-boot) : 잘한다고 말은 못하지만 배운게 JAVA 라 그나마 만만했다.
-- JPA : Hibernate 시절부터 친구와 단골 논쟁거리였던 ORM 이다. 
+- [**JPA**](https://projects.spring.io/spring-data-jpa) : Hibernate 시절부터 친구와 단골 논쟁거리였던 ORM 이다. 
 나로서는 업무에 도입할 일이 없었고 복잡한 쿼리에 대응할 수 있을지 많은 의구심이 든  API 이다. 그래서인지 이럴때 과감히 써보고 싶었다.
 - [**RestfulApi**](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design) : 옛날부터 궁금했다. 철처히 독립된 시스템간의 의사소통방식은 어떻게 할까?
 - [**Swagger**](https://swagger.io/tools/swagger-ui) : 프론트 개발자가 아니다보니 개발과정에서 매번 UI 가 걸렸다. 그런 고민을 쉽게 해결해준녀석
@@ -89,6 +89,22 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 
 마음같아선 다해보고 싶지만 하다하다 지쳐서 죽도밥도 안될거같기에 이정도 선에서 진행해보려 한다.
 공부하며 도움이 되었던 블러그나 자료들은 [http://cain0605.slack.com](http://cain0605.slack.com) #link 채널에 정리하고 있다.
+
+정리가 목적은 아니기에 보기에 불편 할 수도 있다.
+
+**기술습득 단계에서는 직접해보고 필요성을 느껴보도록 노력해보아라.**
+
+
+
+## 왜 WMS 인가?
+
+창고관리시스템(Warehouse Management System)이 일반인들에게 친숙한 주재는 아니다. 좀더 보편적인 주제로 프로젝트를 하고 싶었지만 딱히 떠오르는게 없었다. 아이디어가 있다면 언제나 추천받길 원한다.
+
+공공SI 8년 솔루션개발 2년동안 경험한 개발중 재미있었지만 가장 어려웠고 그만큼 아쉬움도 많았기에 내나름데로 쉽고 범용적으로 재설계 해보고싶었다. 물론 구현한 소스처럼 단순한 시스템은 절데 아니다.
+
+일반적으로 WMS 는 폐쇄적인(in-house 에 적합한) 시스템이다. 아직도 명확한 컨셉트는 정하지 못했지만 소상공인들이 사용가능한 형태로 개방적인 시스템으로 만들어 보려한다. UI로는 챗봇도 고민하고 있는데 잘되면 사업을 하게되지 않을까? 라는 착각을 해본다. ^^;;
+
+아무리 내마음데로 진행하는 프로젝트라지만 되는데로 하지는 못하겠다. 그게 나의 한계일까? 일단 사업성이 있고, 확장이 용이해야하며, 지금은 파일럿이지만 제대로 서비스 할 수 있는 시스템을 만드는것이 목표이다.
 
 ```markdown
 ```
