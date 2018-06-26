@@ -25,6 +25,7 @@ http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8000
 http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html
 
 
+
 ## 프로젝트 진행초기 어려움
 
 누군가 변화하고 싶다면 환경을 바꿔보라고 권해주고 싶다. 환경을 바꾸는 방법중에 새로운 사람을 만나보는것은 좋은 방법중 하나인것 같다.
@@ -37,6 +38,7 @@ http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html
 
 그럴때 도움이 되었던 것은 곁에 있던 친구다. 새로운 사람은 아니었지만 나의 관심사가 바뀌면서 새롭게 느껴졌다.
 그 친구와 프로젝트를 공유하면서 편하게, 호기심 가득하게 내멋데로 프로젝트를 진행 할 수 있게 조금씩 변해갔다.
+
 
 
 ## 프로젝트 기술요소
@@ -69,6 +71,7 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 ![Image](devops.png)
 
 (위의 그림은 [해당 페이지](https://www.contegix.com/devops-part1-its-more-than-teams/)에서 인용하였습니다)
+
 
 
 ## 기술습득과정
