@@ -23,11 +23,11 @@ AA 업무를 5년동안 수행하며 나무가 아닌 숲을 볼 수 있을정�
 내가 그랬다. 같은 회사에 오래 있다보니 맡은 일에 대해서는 자신 있었다. (참고로 내 대부분의 경력은 공공 SI에서 PL, AA, 개발자 이다).
 하지만 이 테두리를 조금만 벗어나면 내가 얼마나 아는게 없는지 종종 느낀다.
 
-진행초기 가장 어려웠던 점은 10년동안 프로젝트를 진행하며 가지게된 편견이랄까? 
+진행초기 가장 어려웠던 점은 10년동안 프로젝트를 경험하며 가지게된 편견이랄까? 
 오로지 내 의사결정만으로 방향이 잡아지는 자유분방한 프로젝트는 처음이라 무엇부터 해야할지 당황스러웠다. 
 계획부터 수립해볼까라고 생각할때쯤 웃음이 나왔다. 왜? 누구도 안볼건데 만들필요가 없었다.
 
-그럴때 도움이 되었던것은 항상 곁에 있던 친구다. 새로운 사람은 아니었지만 나의 관심사가 바뀌면서 새롭게 느껴졌다.
+그럴때 도움이 되었던 것은 곁에 있던 친구다. 새로운 사람은 아니었지만 나의 관심사가 바뀌면서 새롭게 느껴졌다.
 그 친구와 프로젝트를 공유하면서 편하게, 호기심 가득하게 내멋데로 프로젝트를 진행 할 수 있게 조금씩 변해갔다.
 
 
@@ -42,7 +42,6 @@ AA 업무를 5년동안 수행하며 나무가 아닌 숲을 볼 수 있을정�
 MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야가 많은 지식과 노하우를 요구한다는건 알지만 뭐 어떤가?
 내멋대로 이런 것들을 흉내 내보기로 했다.
 
-```markdown
 - SpringBoot : 잘한다고 말은 못하지만 배운게 JAVA 라 ㅠ_ㅠ 그나마 만만했다.
 - JPA : Hibernate 시절부터 친구와 단골 논쟁거리였던 ORM 이다. 나로서는 업무에 도입할 일이 없었고 복잡한 쿼리에 대응할 수 있을지 많은 의구심이 든  API 이다. 그래서인지 이럴때 과감히 써보고 싶었다.
 - RestApi : 옛날부터 궁금했다. 철처히 독립된 시스템간의 의사소통방식은 어떻게 할까?
@@ -58,11 +57,11 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 - Kubernetes : 운영환경 기술의 꽃이 아닐까 생각된다.
 
 프로젝트는 개발환경에서 운영환경까지 자동배포되는 과정에서 요소요소에 기술들이 쓰여졌다. 시스템의 개발 및 운영의 효율성보다는 실습이라는 부분에 좀더 초점이 맞추어 졌다는것을 이해했으면 한다.
-```
 
 ![Image](devops.png)
 
 (위의 그림은 [해당 페이지](https://www.contegix.com/devops-part1-its-more-than-teams/)에서 인용하였습니다)
+
 
 ## 기술습득과정
 
@@ -78,37 +77,9 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 공부하며 도움이 되었던 블러그나 자료들은 http://cain0605.slack.com #link 채널에 정리하고 있다.
 
 ```markdown
-Syntax highlighted code block
+https://github.com/cain0605/nwms.presentation
+http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8000
+
+https://github.com/cain0605/nwms.service
+http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html
 ```
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).ㅁ
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cain0605/cain0605.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
