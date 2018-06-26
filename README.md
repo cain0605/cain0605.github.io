@@ -16,10 +16,12 @@ AA 업무를 5년동안 수행하며 나무가 아닌 숲을 볼 수 있을정�
 거창한 목적이 없는 프로젝트이다. 어쩌면 자기만족을 위한 프로젝트랄까.
 하지만 작은 소망이 있다면 누군가 나와같은 고민을 할지 모르는 사람들에게 도움이 되었으면 한다.
 
-https://github.com/cain0605/nwms.presentation
+N.WMS 프로젝트는 Presentation 프로젝트(https://github.com/cain0605/nwms.presentation)와 Service 프로젝트(https://github.com/cain0605/nwms.service)로 구성되어 있다.
+
+AWS 서비스에서 사용해 볼 수도 있다.
+
 http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8000
 
-https://github.com/cain0605/nwms.service
 http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:8100/swagger-ui.html
 
 
