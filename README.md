@@ -24,6 +24,7 @@ N.WMS 프로젝트는 [Presentation 프로젝트](https://github.com/cain0605/nw
 
 
 
+
 ## 프로젝트 진행초기 어려움
 
 누군가 변화하고 싶다면 환경을 바꿔보라고 권해주고 싶다. 환경을 바꾸는 방법중에 새로운 사람을 만나보는것은 좋은 방법중 하나인것 같다.
@@ -39,6 +40,7 @@ N.WMS 프로젝트는 [Presentation 프로젝트](https://github.com/cain0605/nw
 
 
 
+
 ## 프로젝트 기술요소
 
 ![Image](software.png)
@@ -51,7 +53,8 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 내멋대로 이런 것들을 흉내 내보기로 했다.
 
 - SpringBoot : 잘한다고 말은 못하지만 배운게 JAVA 라 ㅠ_ㅠ 그나마 만만했다.
-- JPA : Hibernate 시절부터 친구와 단골 논쟁거리였던 ORM 이다. 나로서는 업무에 도입할 일이 없었고 복잡한 쿼리에 대응할 수 있을지 많은 의구심이 든  API 이다. 그래서인지 이럴때 과감히 써보고 싶었다.
+- JPA : Hibernate 시절부터 친구와 단골 논쟁거리였던 ORM 이다. 
+나로서는 업무에 도입할 일이 없었고 복잡한 쿼리에 대응할 수 있을지 많은 의구심이 든  API 이다. 그래서인지 이럴때 과감히 써보고 싶었다.
 - RestApi : 옛날부터 궁금했다. 철처히 독립된 시스템간의 의사소통방식은 어떻게 할까?
 - Swagger : 프론트 개발자가 아니다보니 개발과정에서 매번 UI 가 걸렸다. 그런 고민을 쉽게 해결해준녀석
 - Dhtmlx : 그래도 명색이 프로젝트인데 UI 는 있어야지 하는 마음에 ㅠ_ㅠ 고르고 골라봤지만 부족한듯 싶다.
@@ -72,6 +75,7 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 
 
 
+
 ## 기술습득과정
 
 프로젝트를 구성하는 기술요소들을 하나씩 맛만 보는데 3주라는 시간이 걸렸다. 짧다면 짧고 길다면 길다. 
@@ -86,5 +90,6 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 공부하며 도움이 되었던 블러그나 자료들은 [http://cain0605.slack.com](http://cain0605.slack.com) #link 채널에 정리하고 있다.
 
 ```markdown
-
+- JPA : Hibernate 시절부터 친구와 단골 논쟁거리였던 ORM 이다. 
+나로서는 업무에 도입할 일이 없었고 복잡한 쿼리에 대응할 수 있을지 많은 의구심이 든  API 이다. 그래서인지 이럴때 과감히 써보고 싶었다.
 ```
