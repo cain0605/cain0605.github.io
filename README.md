@@ -89,7 +89,7 @@ MicroService Architecture, DevOps, OpenSource 이다. 사실 한분야 한분야
 그렇다고 해도 겨우 일부일뿐이지 python, tensorflo, jsframework 등 요즘 유행하는 기술들은 여전히 낫설다.
 
 마음같아선 다해보고 싶지만 하다하다 지쳐서 죽도밥도 안될거같기에 이정도 선에서 진행해보려 한다.
-공부하며 도움이 되었던 블러그나 자료들은 [http://cain0605.slack.com](http://cain0605.slack.com) #link 채널에 정리하고 있다.
+공부하며 도움이 되었던 블러그나 자료들은 [http://cain0605.slack.com](http://cain0605.slack.com) #information 채널에 정리하고 있다.
 
 Slack 팀 가입은 [http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:3000](http://ec2-54-201-240-208.us-west-2.compute.amazonaws.com:3000)
 
